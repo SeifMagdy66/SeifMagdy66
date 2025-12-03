@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -6,19 +6,19 @@
 
 ###
 
-<h2 align="left">About me<br>A Junior Data Scientist passionate about turning data into clear, meaningful insights.<br>I work mainly with Python, SQL, and machine learning, and I enjoy building projects that solve real problems using clean code and solid analysis.<br><br>🔹 Skilled in: Pandas, NumPy, Scikit-learn, Power BI<br>🔹 Interested in: AI, data analytics, predictive modeling<br>🔹 Currently improving: ML pipelines, model deployment, and automation<br><br>I’m always learning, building, and sharing my work here.<br>Feel free to explore my projects!</h2>
+<h2 align="center">About me<br>A Junior Data Scientist passionate about turning data into clear, meaningful insights.<br>I work mainly with Python, SQL, and machine learning, and I enjoy building projects that solve real problems using clean code and solid analysis.<br><br>🔹 Skilled in: Pandas, NumPy, Scikit-learn, Power BI<br>🔹 Interested in: AI, data analytics, predictive modeling<br>🔹 Currently improving: ML pipelines, model deployment, and automation<br><br>I’m always learning, building, and sharing my work here.<br>Feel free to explore my projects!</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since:<br>2023 — but fixing most of them on the same day 😄<br><br>📚 I'm currently learning:<br>Machine learning, data pipelines, and improving my Python skills<br><br>🎯 Goals:<br>Build smarter ML projects, improve model accuracy, and become a stronger Data Scientist<br><br>🎲 Fun fact:<br>I enjoy breaking my code just to figure out how to fix it again</p>
+<p align="center">✨ Creating bugs since:<br>2023 — but fixing most of them on the same day 😄<br><br>📚 I'm currently learning:<br>Machine learning, data pipelines, and improving my Python skills<br><br>🎯 Goals:<br>Build smarter ML projects, improve model accuracy, and become a stronger Data Scientist<br><br>🎲 Fun fact:<br>I enjoy breaking my code just to figure out how to fix it again</p>
 
 ###
 
-<h2 align="left">I code with:<br>🐍 Python<br>🗄️ SQL<br>📊 Power BI<br>📦 Pandas / NumPy<br>🤖 Scikit-learn</h2>
+<h2 align="center">I code with:<br>🐍 Python<br>🗄️ SQL<br>📊 Power BI<br>📦 Pandas / NumPy<br>🤖 Scikit-learn</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/seifmagdy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
