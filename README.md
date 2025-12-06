@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Seif Eldin Magdy and I'm a Data Scientist, from Egypt</p>
+<h2 align="center">My name is Seif Eldin Magdy and I'm a Data Scientist, from Egypt</p>
 
 ###
 
